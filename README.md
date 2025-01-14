@@ -7,4 +7,4 @@ Taks Completed:
 - Cleaned Data (removed nulls)
 - Performed Data Exploration (Checking column types, first and last few rows)
 - Performed aggregation to create dataframes for investors (addition using grouping)
-- 
+  Code for Project 1: AmazonSalesProject.py
